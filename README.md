@@ -1,6 +1,6 @@
 # Architecture decisions
 
-The main idea is to have centralized documentation about engineering for the company.
+<p style="color:pink">The main idea is to have centralized documentation about engineering for the company. </p>
 
 So, we have two folders:
 
